@@ -1,0 +1,35 @@
+
+
+
+h1{
+    color:black;
+    text-justify: center;
+    text-align: center;
+    margin: 20px;
+    font-family: Noto Sans KR;
+}
+
+#input{
+    border:solid;
+    border-width: 2px;
+    background-color: gray;
+    font-family: Noto Sans KR;
+    text-align: center;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    
+   }
+#pincode:hover{
+    background-color:lightslategray;
+}
+#button:hover{
+    background-color: mediumaquamarine;
+}
+
+#table{
+    border-color: black;
+    font-family: Noto Sans KR;
+   text-align: center;
+}
