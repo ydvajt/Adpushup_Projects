@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#counter {
+  margin-top: 200px;
+  padding: 20px;
+  text-align: center;
+  background-color: lightskyblue;
+  width: 150px;
+  margin-left: 42%;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+#btn-id {
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+}
